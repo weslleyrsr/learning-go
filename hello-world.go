@@ -8,7 +8,6 @@ import (
 	"os"
 	"strings"
 	"time"
-	// "reflect"
 )
 
 var logs = []string{}
@@ -122,7 +121,6 @@ func displayLogs() {
 
 func restartProgram() {
 	fmt.Println("Command not recognized!")
-	// os.Exit(-1)
 }
 
 func readLinksFromFile() []string {
