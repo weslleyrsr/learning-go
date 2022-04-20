@@ -1,3 +1,3 @@
-# learning-go
+# learning-go - V2
 
-Simple CLI app that send clustered requests to URLs at the `links.txt` file and store logs
+At this branch we'll use OOP to handle a bank account and it's functions
